@@ -1,0 +1,782 @@
+Location,Bedrooms,Bathrooms,Size,Price/SQ.Ft,Status,Price
+ Arroyo Grande,3,2,1437,295.76,Regular,425000
+ Arroyo Grande,3,2,1570,381.53,Regular,599000
+ Arroyo Grande,4,4,3740,266.04,Regular,995000
+ Arroyo Grande,2,1,624,87.34,Regular,54500
+ Arroyo Grande,3,2,1800,82.78,Regular,149000
+ Arroyo Grande,3,3,2480,503.63,Regular,1249000
+ Arroyo Grande,3,2,1750,300,Regular,525000
+ Arroyo Grande,4,2,1728,346.64,Regular,599000
+ Arroyo Grande,3,2,1543,329.88,Regular,509000
+ Arroyo Grande,4,3,2720,358.46,Regular,975000
+ Arroyo Grande,3,2,1975,298.23,Regular,589000
+ Atascadero,3,3,2044,486.79,Regular,995000
+ Atascadero,4,3,2700,307.41,Regular,830000
+ Atascadero,3,2,1536,283.2,Regular,435000
+ Atascadero,3,2,1310,228.24,Regular,299000
+ Atascadero,3,3,1961,293.22,Regular,575000
+ Atascadero,2,2,120,562.5,Regular,67500
+ Atascadero,3,3,2100,213.81,Regular,449000
+ Atascadero,5,3,3000,116.33,Regular,349000
+ Atascadero,6,3,2628,161.72,Regular,425000
+ Atascadero,3,2,1737,204.38,Regular,355000
+ Bradley,3,3,2640,606.06,Regular,1600000
+ Cambria,2,2,703,553.34,Regular,389000
+ Cambria,2,2,1698,282.69,Regular,480000
+ Cambria,3,3,1953,373.27,Regular,729000
+ Cambria,3,3,2130,605.63,Regular,1290000
+ Cambria,4,4,3576,559.28,Regular,2000000
+ Cambria,2,3,2219,269.49,Regular,598000
+ Cambria,2,2,919,707.29,Regular,650000
+ Cambria,2,3,1840,448.37,Regular,825000
+ Cambria,5,4,3684,812.98,Regular,2995000
+ Cambria,4,3,2717,366.21,Regular,995000
+ Cambria,3,3,1860,465.05,Regular,865000
+ Cambria,3,3,2392,459.87,Regular,1100000
+ Cayucos,3,3,1832,286.57,Regular,525000
+ Cayucos,2,2,1437,483.65,Regular,695000
+ Creston,3,2,1701,322.75,Regular,549000
+ Grover Beach,3,3,3621,275.89,Regular,999000
+ Grover Beach,3,2,1080,341.67,Regular,369000
+ Lompoc,3,1,1000,149.9,Regular,149900
+ Los Osos,3,3,2502,539.57,Regular,1350000
+ Los Osos,2,2,1536,123.05,Regular,189000
+ Los Osos,3,3,2193,295.49,Regular,648000
+ Los Osos,3,2,1440,103.47,Regular,149000
+ Los Osos,3,2,2187,285.78,Regular,625000
+ Los Osos,2,2,1150,195.65,Regular,225000
+ Morro Bay,2,2,1410,379.43,Regular,535000
+ Morro Bay,4,2,2004,234.03,Regular,469000
+ Morro Bay,3,2,1427,456.9,Regular,652000
+ Morro Bay,3,2,2306,426.19,Regular,982800
+ Nipomo,4,2,1248,98.16,Regular,122500
+ Nipomo,2,2,1152,151.91,Regular,175000
+ Nipomo,4,4,3395,313.7,Regular,1065000
+ Oceano,2,2,1044,1144.64,Regular,1195000
+ Paso Robles,3,2,1807,235.2,Regular,425000
+ Paso Robles,3,2,2237,245.42,Regular,549000
+ Paso Robles,3,2,1467,237.9,Regular,349000
+ Paso Robles,3,3,1868,170.24,Regular,318000
+ Paso Robles,4,3,3166,183.16,Regular,579900
+ Paso Robles,3,2,2380,220.55,Regular,524900
+ Paso Robles,3,1,940,211.7,Regular,199000
+ Paso Robles,3,2,1344,200.89,Regular,270000
+ Paso Robles,1,2,300,439.67,Regular,131900
+ Paso Robles,3,2,1325,256.53,Regular,339900
+ Paso Robles,2,2,1351,159.07,Regular,214900
+ Paso Robles,2,3,1772,225.17,Regular,399000
+ Paso Robles,4,2,1947,204.93,Regular,399000
+ Paso Robles,3,3,1605,199.31,Regular,319900
+ Paso Robles,3,2,1877,263.72,Regular,495000
+ Pismo Beach,2,1,817,660.95,Regular,540000
+ Pismo Beach,3,2,2080,307.64,Regular,639900
+ Pismo Beach,3,2,1946,280.06,Regular,545000
+ Pismo Beach,3,3,2028,392.01,Regular,795000
+ Pismo Beach,3,3,2817,326.59,Regular,920000
+ Pismo Beach,3,2,1346,341.68,Regular,459900
+ Pismo Beach,2,2,1440,235.42,Regular,339000
+ Pismo Beach,3,3,2725,311.74,Regular,849500
+ San Luis Obispo,5,6,4174,567.56,Regular,2369000
+ San Luis Obispo,3,3,3201,465.48,Regular,1490000
+ San Luis Obispo,3,2,1382,343.7,Regular,475000
+ San Miguel,3,3,2238,265.86,Regular,595000
+ Santa Maria-Orcutt,4,2,1860,215,Regular,399900
+ Santa Maria-Orcutt,2,2,1200,107.5,Regular,129000
+ Santa Maria-Orcutt,5,4,3000,233.3,Regular,699900
+ Santa Maria-Orcutt,4,2,1860,196.24,Regular,365000
+ Santa Maria-Orcutt,2,2,1056,34.09,Regular,36000
+ Santa Maria-Orcutt,3,2,2481,342.6,Regular,850000
+ Santa Maria-Orcutt,3,2,1454,215.2,Regular,312900
+ Santa Maria-Orcutt,2,2,1344,19.72,Regular,26500
+ Santa Maria-Orcutt,4,3,2097,119.22,Regular,250000
+ Santa Maria-Orcutt,2,1,1145,310.04,Regular,355000
+ Santa Maria-Orcutt,3,3,1850,161.62,Regular,299000
+ Santa Maria-Orcutt,3,2,2000,174.95,Regular,349900
+ Santa Maria-Orcutt,3,2,1000,250,Regular,249999
+ Solvang,2,2,1536,81.38,Regular,125000
+ Solvang,3,2,1720,305.23,Regular,525000
+ Templeton,3,2,1936,262.91,Regular,509000
+Arroyo Grande,3,3,2371,335.3,Short Sale,795000
+Arroyo Grande,2,2,1257,237.87,Short Sale,299000
+Arroyo Grande,3,2,1750,340,Short Sale,595000
+Arroyo Grande,3,2,1486,333.11,Short Sale,495000
+Arroyo Grande,3,2,2145,349.18,Short Sale,749000
+Arroyo Grande,5,3,2947,188.63,Foreclosure,555900
+Arroyo Grande,2,1,827,240.63,Short Sale,199000
+Arroyo Grande,5,7,6800,220.44,Short Sale,1499000
+Arroyo Grande,4,5,5411,351.14,Short Sale,1900000
+Arroyo Grande,3,2,1535,250.81,Short Sale,385000
+Arroyo Grande,3,3,1772,225.17,Short Sale,399000
+Arroyo Grande,2,2,880,317.05,Short Sale,279000
+Arroyo Grande,4,2,1961,267.72,Short Sale,525000
+Arroyo Grande,3,1,1005,287.56,Short Sale,289000
+Arroyo Grande,3,3,2600,200,Short Sale,520000
+Arroyo Grande,3,2,1171,277.54,Short Sale,325000
+Arroyo Grande,3,2,1368,274.05,Short Sale,374900
+Arroyo Grande,3,1,1056,345.64,Short Sale,365000
+Arroyo Grande,2,1,972,272.63,Foreclosure,265000
+Arroyo Grande,2,1,728,342.38,Short Sale,249250
+Arroyo Grande,5,4,3588,236.9,Foreclosure,850000
+Arroyo Grande,3,4,3375,251.82,Short Sale,849900
+Arroyo Grande,2,2,1587,264.02,Short Sale,419000
+Arroyo Grande,4,3,2035,253.02,Foreclosure,514900
+Arroyo Grande,3,2,1916,234.86,Short Sale,450000
+Arroyo Grande,3,3,1568,255.1,Short Sale,400000
+Arroyo Grande,1,1,748,334.22,Short Sale,250000
+Arroyo Grande,5,2,1575,152.25,Foreclosure,239800
+Atascadero,3,2,1323,241.12,Short Sale,319000
+Atascadero,3,2,1415,274.91,Short Sale,389000
+Atascadero,1,1,712,279.49,Short Sale,199000
+Atascadero,3,2,2774,215.93,Short Sale,599000
+Atascadero,4,4,3387,221.43,Foreclosure,750000
+Atascadero,4,3,3305,245.08,Foreclosure,810000
+Atascadero,4,5,4229,210.45,Foreclosure,890000
+Atascadero,4,3,3676,243.47,Foreclosure,895000
+Atascadero,4,3,2513,170.71,Foreclosure,429000
+Atascadero,3,2,1270,235.43,Short Sale,299000
+Atascadero,2,2,1463,307.59,Short Sale,450000
+Atascadero,4,3,3120,191.99,Short Sale,599000
+Atascadero,3,2,1022,233.86,Short Sale,239000
+Atascadero,3,2,1665,239.94,Short Sale,399500
+Atascadero,4,3,3827,216.85,Short Sale,829900
+Atascadero,4,4,3387,242.1,Foreclosure,820000
+Atascadero,4,3,1900,239.21,Foreclosure,454500
+Atascadero,4,4,3744,227.03,Foreclosure,850000
+Atascadero,2,1,792,251.26,Short Sale,199000
+Atascadero,4,3,3305,261.72,Foreclosure,865000
+Atascadero,4,4,3962,227.16,Short Sale,900000
+Atascadero,2,3,1260,157.94,Short Sale,199000
+Atascadero,2,2,1426,227.84,Short Sale,324900
+Atascadero,4,4,2135,191.99,Short Sale,409900
+Atascadero,4,4,2135,191.99,Short Sale,409900
+Atascadero,3,3,2160,296.3,Short Sale,640000
+Atascadero,2,1,1160,340.52,Short Sale,395000
+Atascadero,3,3,2344,238.91,Short Sale,560000
+Atascadero,4,3,2450,193.88,Short Sale,475000
+Atascadero,2,2,894,119.57,Foreclosure,106900
+Atascadero,1,1,594,315.66,Short Sale,187500
+Atascadero,3,1,1030,256.75,Short Sale,264450
+Atascadero,3,3,1261,198.26,Short Sale,250000
+Atascadero,2,1,1055,131.66,Foreclosure,138900
+Atascadero,4,2,1836,163.13,Foreclosure,299500
+Atascadero,3,3,1733,167.34,Short Sale,290000
+Atascadero,3,3,2600,257.31,Short Sale,669000
+Atascadero,3,2,1514,243.73,Short Sale,369000
+Atascadero,3,3,1685,183.38,Short Sale,309000
+Atascadero,3,2,1198,191.9,Foreclosure,229900
+Atascadero,2,2,1041,139.29,Short Sale,145000
+Atascadero,3,3,1261,186.36,Short Sale,235000
+Atascadero,6,3,2628,151.83,Foreclosure,399000
+Atascadero,2,1,973,204.52,Short Sale,199000
+Atascadero,3,3,2135,210.73,Foreclosure,449900
+Atascadero,3,3,1957,250.33,Foreclosure,489900
+Atascadero,4,3,2400,139.58,Short Sale,335000
+Atascadero,2,1,756,125.66,Foreclosure,95000
+Atascadero,3,2,1007,197.62,Short Sale,199000
+Atascadero,5,4,5200,182.5,Short Sale,949000
+Atascadero,2,1,756,119.05,Short Sale,90000
+Atascadero,3,3,2000,174.5,Short Sale,349000
+Atascadero,3,2,2000,224.99,Foreclosure,449970
+Atascadero,10,11,4905,142.51,Short Sale,699000
+Atascadero,3,2,1232,215.02,Foreclosure,264900
+Atascadero,5,3,3000,116.33,Short Sale,349000
+Atascadero,3,2,1041,220.85,Foreclosure,229900
+Atascadero,3,2,1617,163.88,Short Sale,265000
+Avila Beach,2,2,1223,636.96,Foreclosure,779000
+Avila Beach,2,2,1223,686.02,Foreclosure,839000
+Avila Beach,4,5,5307,376.67,Short Sale,1999000
+Bakersfield,3,2,1313,69.69,Short Sale,91500
+Bradley,4,5,3400,146.76,Short Sale,499000
+Bradley,3,2,1092,178.48,Foreclosure,194900
+Bradley,3,3,2563,175.19,Short Sale,449000
+Buellton,4,4,3000,215,Short Sale,645000
+Buellton,2,2,1085,266.36,Short Sale,289000
+Buellton,3,3,1475,254.24,Short Sale,375000
+Buellton,3,2,1716,238.87,Foreclosure,409900
+Buellton,3,2,1363,276.6,Foreclosure,377000
+Buellton,3,3,1281,209.99,Short Sale,269000
+Buellton,4,3,1500,332.6,Foreclosure,498900
+Buellton,4,2,1571,245,Foreclosure,384900
+Buellton,4,3,1868,211.46,Short Sale,395000
+Buellton,3,3,1475,254.24,Short Sale,375000
+Buellton,4,3,1868,211.46,Short Sale,395000
+Buellton,4,3,1868,211.46,Short Sale,395000
+Cambria,2,2,893,363.94,Short Sale,325000
+Cambria,3,2,1680,309.52,Short Sale,520000
+Cambria,3,3,2120,211.79,Short Sale,449000
+Cambria,4,4,1872,177.35,Foreclosure,332000
+Cambria,1,1,551,680.58,Short Sale,375000
+Cambria,5,3,1818,384.98,Foreclosure,699900
+Cambria,3,2,1380,210.07,Foreclosure,289900
+Cambria,3,2,1840,195.6,Foreclosure,359900
+Cambria,2,2,924,594.16,Short Sale,549000
+Cayucos,3,3,3880,386.6,Short Sale,1500000
+Coalinga,3,2,1815,98.62,Short Sale,179000
+Coalinga,3,2,1320,128.79,Short Sale,170000
+Coalinga,4,3,1878,112.89,Short Sale,212000
+Coalinga,5,2,1802,121.81,Short Sale,219500
+Coalinga,3,1,870,114.94,Short Sale,100000
+Coalinga,2,1,960,130.21,Short Sale,125000
+Coalinga,4,3,2507,163.14,Short Sale,409000
+Creston,3,2,1705,181.76,Foreclosure,309900
+Greenfield,4,2,2018,91.58,Foreclosure,184800
+Grover Beach,3,2,2100,238.1,Short Sale,500000
+Grover Beach,2,1,768,423.18,Short Sale,325000
+Grover Beach,2,2,1020,235.29,Short Sale,240000
+Grover Beach,3,2,1470,238.1,Short Sale,350000
+Grover Beach,4,3,2449,191.51,Foreclosure,469000
+Grover Beach,3,2,1635,213.46,Short Sale,349000
+Grover Beach,3,3,2095,274.46,Short Sale,575000
+Grover Beach,3,2,1827,256.7,Short Sale,469000
+Grover Beach,2,2,1194,230.32,Short Sale,275000
+Grover Beach,3,2,1462,327.63,Short Sale,479000
+Grover Beach,2,2,1088,229.32,Short Sale,249500
+Grover Beach,3,2,1200,258.33,Short Sale,310000
+Grover Beach,1,1,566,468.2,Short Sale,265000
+Grover Beach,3,2,1346,259.29,Short Sale,349000
+Grover Beach,3,2,1278,293.43,Short Sale,375000
+Grover Beach,3,2,1902,220.29,Short Sale,419000
+Grover Beach,3,1,1522,229.89,Short Sale,349900
+Grover Beach,3,2,1240,266.05,Short Sale,329900
+Grover Beach,3,2,1189,214.47,Short Sale,255000
+Grover Beach,4,2,1631,232.37,Short Sale,379000
+Guadalupe,2,1,797,119.2,Short Sale,95000
+Guadalupe,3,1,1100,122.73,Short Sale,135000
+Guadalupe,2,2,797,117.94,Foreclosure,94000
+Guadalupe,3,2,1200,120.83,Short Sale,145000
+King City,3,3,1793,93.57,Foreclosure,167770
+King City,4,2,3368,46.29,Foreclosure,155900
+King City,3,1,936,74.68,Foreclosure,69900
+Lockwood,3,2,1500,283.33,Short Sale,425000
+Lompoc,4,2,1527,130.32,Foreclosure,199000
+Lompoc,3,2,1700,161.76,Short Sale,275000
+Lompoc,3,1,912,204.93,Foreclosure,186900
+Lompoc,4,2,1332,135.14,Short Sale,180000
+Lompoc,3,3,1736,162.44,Short Sale,282000
+Lompoc,3,2,1144,144.23,Short Sale,165000
+Lompoc,4,3,3000,120,Short Sale,360000
+Lompoc,3,2,1120,147.32,Short Sale,165000
+Lompoc,3,3,2041,210.19,Short Sale,429000
+Lompoc,3,2,1413,184.01,Short Sale,260000
+Lompoc,3,2,944,180.08,Short Sale,170000
+Lompoc,3,2,1150,147.74,Foreclosure,169900
+Lompoc,3,2,1594,192.6,Foreclosure,307000
+Lompoc,4,2,1973,149.52,Short Sale,295000
+Lompoc,3,2,1686,208.13,Foreclosure,350900
+Lompoc,4,2,1144,138.9,Foreclosure,158900
+Lompoc,3,2,1728,234.38,Short Sale,405000
+Lompoc,4,2,1237,154.67,Foreclosure,191330
+Lompoc,4,2,1338,149.4,Short Sale,199900
+Lompoc,3,2,1503,151.63,Foreclosure,227900
+Lompoc,3,3,1306,95.71,Foreclosure,125000
+Lompoc,4,3,3035,148.24,Foreclosure,449900
+Lompoc,4,2,1217,158.96,Foreclosure,193450
+Lompoc,3,2,1082,151.48,Foreclosure,163900
+Lompoc,3,2,1237,132.5,Foreclosure,163900
+Lompoc,3,2,1225,162.37,Foreclosure,198900
+Los Alamos,4,2,1850,215.68,Short Sale,399000
+Los Alamos,3,2,1582,221.24,Short Sale,350000
+Los Alamos,5,3,3200,139.06,Short Sale,445000
+Los Osos,3,3,2990,260.54,Short Sale,779000
+Los Osos,3,2,1200,229.17,Short Sale,275000
+Los Osos,3,3,1519,246.87,Short Sale,375000
+Los Osos,1,1,538,184.01,Short Sale,99000
+Los Osos,3,2,1509,231.94,Short Sale,350000
+Los Osos,3,2,1120,254.46,Short Sale,285000
+Los Osos,2,2,896,167.41,Short Sale,150000
+Los Osos,2,2,896,167.41,Short Sale,150000
+Los Osos,2,2,896,167.41,Short Sale,150000
+Los Osos,2,2,896,167.41,Short Sale,150000
+Los Osos,2,2,896,167.41,Short Sale,150000
+Los Osos,2,2,1388,147.69,Short Sale,205000
+Los Osos,3,2,1844,395.34,Short Sale,729000
+Los Osos,3,3,3249,200.06,Short Sale,650000
+Los Osos,2,1,720,347.08,Foreclosure,249900
+Los Osos,2,2,1042,205.37,Foreclosure,214000
+Los Osos,3,2,2120,235.38,Short Sale,499000
+Los Osos,2,1,780,397.44,Short Sale,310000
+Los Osos,3,2,1320,208.33,Short Sale,275000
+Los Osos,6,7,5103,244.76,Foreclosure,1249000
+Los Osos,3,2,1120,232.05,Short Sale,259900
+Morro Bay,4,4,3540,256.78,Short Sale,909000
+Morro Bay,4,3,3360,297.32,Short Sale,999000
+Morro Bay,4,3,4168,263.92,Short Sale,1100000
+Morro Bay,3,3,1350,307.41,Short Sale,415000
+Morro Bay,3,3,2100,375.71,Foreclosure,789000
+Morro Bay,3,3,2430,369.96,Foreclosure,899000
+Morro Bay,3,3,2100,497.62,Foreclosure,1045000
+Morro Bay,2,2,1550,499.35,Foreclosure,774000
+Morro Bay,3,2,1008,356.15,Short Sale,359000
+Morro Bay,4,2,1736,227.53,Short Sale,395000
+Morro Bay,0,1,910,342.75,Foreclosure,311900
+Morro Bay,3,3,1510,350.33,Short Sale,529000
+Morro Bay,3,2,1236,351.94,Short Sale,435000
+New Cuyama,3,1,1201,34.05,Short Sale,40900
+Nipomo,3,1,1110,306.31,Short Sale,340000
+Nipomo,3,3,2365,221.99,Short Sale,525000
+Nipomo,4,3,2341,212.73,Short Sale,498000
+Nipomo,4,2,2168,198.34,Short Sale,430000
+Nipomo,4,2,1929,165.89,Short Sale,320000
+Nipomo,7,5,2688,120.91,Short Sale,325000
+Nipomo,2,2,1033,173.28,Short Sale,179000
+Nipomo,4,2,1660,95.78,Short Sale,159000
+Nipomo,3,2,1367,211.41,Short Sale,289000
+Nipomo,2,2,2000,257.5,Short Sale,515000
+Nipomo,3,5,4463,380.91,Short Sale,1700000
+Nipomo,3,3,1894,258.71,Short Sale,490000
+Nipomo,3,2,1756,170.27,Short Sale,299000
+Nipomo,4,2,1925,176.57,Short Sale,339900
+Nipomo,4,3,2600,211.54,Short Sale,550000
+Nipomo,2,2,1248,111.78,Foreclosure,139500
+Nipomo,3,2,1106,216.09,Short Sale,239000
+Nipomo,2,2,1040,182.21,Short Sale,189500
+Nipomo,5,3,3036,118.54,Short Sale,359900
+Nipomo,3,2,1700,411.18,Foreclosure,699000
+Nipomo,3,2,1181,227.77,Short Sale,269000
+Nipomo,3,3,1650,146.97,Short Sale,242500
+Nipomo,4,2,1814,357.77,Foreclosure,649000
+Nipomo,4,2,1718,203.14,Short Sale,349000
+Nipomo,2,2,969,154.7,Short Sale,149900
+Nipomo,3,4,3698,237.7,Short Sale,879000
+Nipomo,4,4,5190,269.73,Short Sale,1399900
+Nipomo,4,2,2125,139.67,Foreclosure,296800
+Nipomo,2,2,1134,246.83,Short Sale,279900
+Nipomo,3,2,1106,201.27,Foreclosure,222600
+Nipomo,3,3,2703,240.47,Short Sale,650000
+Nipomo,3,2,1112,197.84,Foreclosure,220000
+Nipomo,3,1,1022,184.93,Foreclosure,189000
+Nipomo,4,2,1336,193.86,Short Sale,259000
+Oceano,3,3,1800,180.5,Short Sale,324900
+Oceano,2,1,750,219.87,Foreclosure,164900
+Oceano,3,3,2586,483.37,Short Sale,1250000
+Oceano,2,1,1313,108.83,Foreclosure,142900
+Oceano,3,3,1265,237.15,Short Sale,300000
+Oceano,3,2,1487,268.93,Short Sale,399900
+Oceano,3,3,2218,355.73,Short Sale,789000
+Oceano,2,2,885,192.09,Short Sale,170000
+Oceano,3,2,1161,154.95,Foreclosure,179900
+Oceano,2,1,992,206.55,Short Sale,204900
+Out Of Area,4,2,1511,123.69,Regular,186900
+Out Of Area,3,2,1526,131,Regular,199900
+Out Of Area,3,3,1435,94.01,Regular,134900
+Paso Robles,4,3,2818,141.59,Short Sale,399000
+Paso Robles,4,3,3032,179.75,Short Sale,545000
+Paso Robles,4,3,1794,175.03,Short Sale,314000
+Paso Robles,3,2,1719,173.94,Short Sale,299000
+Paso Robles,4,3,3032,178.07,Short Sale,539900
+Paso Robles,3,2,1700,193.53,Short Sale,329000
+Paso Robles,4,3,2192,186.59,Short Sale,409000
+Paso Robles,3,2,1456,154.53,Short Sale,225000
+Paso Robles,3,3,1951,184.47,Short Sale,359900
+Paso Robles,3,2,1560,57.05,Short Sale,89000
+Paso Robles,3,2,1340,175.37,Short Sale,235000
+Paso Robles,3,1,888,206.08,Short Sale,183000
+Paso Robles,3,2,1316,224.09,Foreclosure,294900
+Paso Robles,3,2,1220,327.05,Short Sale,399000
+Paso Robles,4,2,2135,149.84,Foreclosure,319900
+Paso Robles,4,3,3113,138.77,Short Sale,432000
+Paso Robles,4,3,2277,166.45,Short Sale,379000
+Paso Robles,3,2,1440,114.51,Short Sale,164900
+Paso Robles,4,2,2064,179.26,Short Sale,370000
+Paso Robles,3,3,2136,170.88,Short Sale,365000
+Paso Robles,2,1,1068,279.96,Short Sale,299000
+Paso Robles,3,2,1420,231.69,Short Sale,329000
+Paso Robles,5,3,2764,217.04,Foreclosure,599900
+Paso Robles,3,2,1662,149.82,Short Sale,249000
+Paso Robles,3,3,1352,198.96,Short Sale,269000
+Paso Robles,3,2,1209,248.06,Foreclosure,299900
+Paso Robles,3,2,1381,202.03,Short Sale,279000
+Paso Robles,2,1,1250,319.2,Short Sale,399000
+Paso Robles,3,2,1640,216.46,Short Sale,355000
+Paso Robles,4,3,2371,155.63,Short Sale,369000
+Paso Robles,2,2,1292,193.5,Short Sale,250000
+Paso Robles,3,2,1640,157.93,Short Sale,259000
+Paso Robles,4,2,1653,190.56,Short Sale,315000
+Paso Robles,3,3,1889,174.7,Short Sale,330000
+Paso Robles,3,2,1176,211.73,Short Sale,249000
+Paso Robles,3,2,1998,194.69,Short Sale,389000
+Paso Robles,3,3,1687,154.12,Short Sale,260000
+Paso Robles,3,2,1663,192.42,Short Sale,320000
+Paso Robles,3,2,1550,145.16,Short Sale,225000
+Paso Robles,3,3,2150,171.63,Short Sale,369000
+Paso Robles,3,2,1488,207.66,Short Sale,309000
+Paso Robles,4,2,2161,171.17,Foreclosure,369900
+Paso Robles,2,1,1000,199,Short Sale,199000
+Paso Robles,5,3,3150,183.81,Foreclosure,579000
+Paso Robles,3,2,1426,203.37,Short Sale,290000
+Paso Robles,3,2,1395,250.9,Short Sale,350000
+Paso Robles,3,2,1300,242.31,Short Sale,315000
+Paso Robles,3,2,1244,225,Foreclosure,279900
+Paso Robles,4,2,2139,186.54,Short Sale,399000
+Paso Robles,3,2,1550,143.12,Short Sale,221830
+Paso Robles,3,2,1139,236.96,Short Sale,269900
+Paso Robles,3,2,1465,116.03,Foreclosure,169990
+Paso Robles,3,3,1296,259.18,Foreclosure,335900
+Paso Robles,3,2,1774,202.37,Short Sale,359000
+Paso Robles,4,2,1240,192.74,Short Sale,239000
+Paso Robles,5,6,3750,185.33,Short Sale,695000
+Paso Robles,2,2,1440,104.17,Short Sale,150000
+Paso Robles,3,2,1488,110.21,Short Sale,163999
+Paso Robles,4,3,2006,159.12,Foreclosure,319200
+Paso Robles,3,2,2446,164.55,Foreclosure,402500
+Paso Robles,3,2,2114,201.04,Short Sale,425000
+Paso Robles,3,2,1080,222.13,Foreclosure,239900
+Paso Robles,3,3,2271,255.39,Short Sale,580000
+Paso Robles,3,2,1269,226.16,Short Sale,287000
+Paso Robles,5,3,2700,158.89,Foreclosure,429000
+Paso Robles,3,3,1197,221.3,Foreclosure,264900
+Paso Robles,4,2,1870,229.41,Short Sale,429000
+Paso Robles,4,2,2064,198.16,Foreclosure,409000
+Paso Robles,4,2,2064,198.16,Foreclosure,409000
+Paso Robles,4,3,1888,211.33,Foreclosure,399000
+Paso Robles,4,2,1862,208.92,Foreclosure,389000
+Paso Robles,3,2,1960,208.67,Foreclosure,409000
+Paso Robles,4,3,2502,211.43,Short Sale,529000
+Paso Robles,3,3,2203,185.66,Short Sale,409000
+Paso Robles,4,2,2236,174.42,Short Sale,390000
+Paso Robles,3,2,1657,184.01,Foreclosure,304900
+Paso Robles,3,2,1396,199.14,Foreclosure,278000
+Paso Robles,3,2,1368,108.92,Short Sale,149000
+Paso Robles,3,2,1275,195.29,Short Sale,249000
+Paso Robles,3,2,2082,287.7,Foreclosure,599000
+Paso Robles,3,2,1080,198.98,Foreclosure,214900
+Paso Robles,3,2,1425,175.44,Short Sale,250000
+Paso Robles,3,3,2508,175.4,Foreclosure,439900
+Paso Robles,2,1,832,239.18,Short Sale,199000
+Paso Robles,2,2,1674,149.28,Foreclosure,249900
+Pismo Beach,3,4,1920,494.79,Short Sale,950000
+Pismo Beach,3,3,2602,422.75,Short Sale,1100000
+Pismo Beach,3,2,1293,385.92,Short Sale,499000
+Pismo Beach,0,1,398,690.95,Short Sale,275000
+Pismo Beach,3,3,2266,396.73,Short Sale,899000
+Pismo Beach,2,3,1749,345.91,Foreclosure,604995
+Pismo Beach,3,3,1996,300.1,Short Sale,599000
+Pismo Beach,2,1,634,819.4,Short Sale,519500
+Pismo Beach,4,4,3609,498.48,Foreclosure,1799000
+Pismo Beach,3,3,2200,397.73,Short Sale,875000
+Pismo Beach,2,2,1200,499.17,Short Sale,599000
+Pismo Beach,3,2,1858,295.48,Short Sale,549000
+San Luis Obispo,3,3,1472,288.72,Short Sale,425000
+San Luis Obispo,4,2,1543,258.59,Short Sale,399000
+San Luis Obispo,3,2,2117,281.06,Short Sale,595000
+San Luis Obispo,2,3,1389,277.18,Short Sale,385000
+San Luis Obispo,2,3,1650,272.12,Short Sale,449000
+San Luis Obispo,3,2,1268,461.36,Short Sale,585000
+San Luis Obispo,2,2,966,263.87,Foreclosure,254900
+San Luis Obispo,3,3,3474,256.19,Short Sale,890000
+San Luis Obispo,2,2,896,333.71,Foreclosure,299000
+San Luis Obispo,3,3,1365,274.58,Short Sale,374800
+San Luis Obispo,2,2,1190,201.51,Foreclosure,239800
+San Luis Obispo,3,2,1668,318.89,Foreclosure,531905
+San Luis Obispo,3,3,1756,250.57,Short Sale,440000
+San Luis Obispo,3,2,1104,336.96,Foreclosure,372000
+San Miguel,3,3,2950,203.05,Short Sale,599000
+San Miguel,3,2,1458,157.68,Short Sale,229900
+San Miguel,3,2,1458,157.06,Short Sale,229000
+San Miguel,3,2,1498,230.31,Short Sale,345000
+San Miguel,3,1,965,170.88,Short Sale,164900
+San Miguel,3,2,1062,174.2,Short Sale,185000
+San Miguel,4,2,1601,168.58,Short Sale,269900
+San Miguel,3,2,1350,133.33,Short Sale,180000
+San Miguel,3,2,1458,157.06,Short Sale,229000
+San Miguel,3,2,1184,168.5,Short Sale,199500
+San Miguel,4,4,3531,203.91,Foreclosure,720000
+San Miguel,2,2,1222,69.48,Foreclosure,84900
+San Miguel,4,2,2400,135.42,Short Sale,325000
+San Miguel,3,2,1356,154.79,Foreclosure,209900
+San Simeon,2,2,1218,225.7,Foreclosure,274900
+Santa Margarita,1,1,628,95.38,Foreclosure,59900
+Santa Maria-Orcutt,3,1,1249,87.99,Short Sale,109900
+Santa Maria-Orcutt,4,2,1603,120.34,Short Sale,192900
+Santa Maria-Orcutt,3,2,1450,148.28,Short Sale,215000
+Santa Maria-Orcutt,3,2,1750,200,Short Sale,350000
+Santa Maria-Orcutt,3,2,1400,177.86,Short Sale,249000
+Santa Maria-Orcutt,3,2,1400,168.5,Short Sale,235900
+Santa Maria-Orcutt,3,2,1600,217.5,Short Sale,348000
+Santa Maria-Orcutt,2,1,1000,110,Short Sale,110000
+Santa Maria-Orcutt,3,2,1139,175.59,Short Sale,200000
+Santa Maria-Orcutt,3,1,1080,124.91,Short Sale,134900
+Santa Maria-Orcutt,4,3,2000,125,Short Sale,250000
+Santa Maria-Orcutt,4,2,1348,178,Short Sale,239950
+Santa Maria-Orcutt,3,2,1280,132.81,Short Sale,170000
+Santa Maria-Orcutt,3,2,2400,118.75,Short Sale,285000
+Santa Maria-Orcutt,3,3,1700,164.12,Short Sale,279000
+Santa Maria-Orcutt,3,2,1600,136.88,Short Sale,219000
+Santa Maria-Orcutt,3,2,1050,147.62,Short Sale,155000
+Santa Maria-Orcutt,2,2,1100,127.27,Short Sale,140000
+Santa Maria-Orcutt,4,3,2351,153.13,Short Sale,360000
+Santa Maria-Orcutt,4,2,1206,207.3,Short Sale,250000
+Santa Maria-Orcutt,3,3,2628,212.71,Short Sale,559000
+Santa Maria-Orcutt,4,3,2580,108.14,Short Sale,279000
+Santa Maria-Orcutt,4,2,1963,191.03,Short Sale,375000
+Santa Maria-Orcutt,3,3,1900,173.68,Short Sale,330000
+Santa Maria-Orcutt,3,3,1450,137.24,Short Sale,199000
+Santa Maria-Orcutt,2,2,1000,165,Short Sale,165000
+Santa Maria-Orcutt,3,2,1218,209.36,Short Sale,255000
+Santa Maria-Orcutt,3,4,2250,221.78,Short Sale,499000
+Santa Maria-Orcutt,3,3,1800,132.78,Short Sale,239000
+Santa Maria-Orcutt,3,2,1218,160.1,Short Sale,195000
+Santa Maria-Orcutt,4,3,1877,146.51,Short Sale,275000
+Santa Maria-Orcutt,3,2,1080,129.63,Short Sale,140000
+Santa Maria-Orcutt,3,2,1296,129.55,Foreclosure,167900
+Santa Maria-Orcutt,1,1,900,132.22,Short Sale,119000
+Santa Maria-Orcutt,4,2,1482,165.32,Short Sale,245000
+Santa Maria-Orcutt,3,2,1726,150.58,Short Sale,259900
+Santa Maria-Orcutt,4,2,1367,241.19,Short Sale,329700
+Santa Maria-Orcutt,3,2,1040,143.27,Short Sale,149000
+Santa Maria-Orcutt,2,1,811,240.44,Short Sale,195000
+Santa Maria-Orcutt,3,1,1042,124.66,Short Sale,129900
+Santa Maria-Orcutt,3,2,1440,177.71,Foreclosure,255900
+Santa Maria-Orcutt,5,2,1064,139.94,Short Sale,148900
+Santa Maria-Orcutt,3,2,1472,129.01,Foreclosure,189900
+Santa Maria-Orcutt,3,3,1582,147.03,Short Sale,232600
+Santa Maria-Orcutt,4,3,1940,115.98,Short Sale,225000
+Santa Maria-Orcutt,3,2,1200,134.92,Short Sale,161900
+Santa Maria-Orcutt,3,3,2013,124.19,Short Sale,249999
+Santa Maria-Orcutt,2,1,1267,164.17,Short Sale,208000
+Santa Maria-Orcutt,4,3,2800,142.5,Short Sale,399000
+Santa Maria-Orcutt,3,2,2000,192.5,Short Sale,385000
+Santa Maria-Orcutt,3,3,1780,151.12,Short Sale,269000
+Santa Maria-Orcutt,2,2,1500,19.33,Foreclosure,29000
+Santa Maria-Orcutt,4,3,1857,139.47,Short Sale,259000
+Santa Maria-Orcutt,4,2,2000,168.5,Short Sale,337000
+Santa Maria-Orcutt,3,2,1280,140.63,Short Sale,180000
+Santa Maria-Orcutt,3,2,1424,193.12,Short Sale,275000
+Santa Maria-Orcutt,3,2,1218,199.1,Foreclosure,242500
+Santa Maria-Orcutt,3,3,1300,199.92,Short Sale,259900
+Santa Maria-Orcutt,4,3,2014,153.92,Short Sale,310000
+Santa Maria-Orcutt,2,2,1541,142.76,Short Sale,220000
+Santa Maria-Orcutt,5,4,2400,135,Short Sale,324000
+Santa Maria-Orcutt,2,2,1014,73.87,Short Sale,74900
+Santa Maria-Orcutt,3,3,3400,221.15,Foreclosure,751900
+Santa Maria-Orcutt,3,2,1386,212.84,Short Sale,295000
+Santa Maria-Orcutt,3,2,1376,143.17,Short Sale,197000
+Santa Maria-Orcutt,3,1,1050,125.71,Short Sale,132000
+Santa Maria-Orcutt,5,3,2500,116,Short Sale,290000
+Santa Maria-Orcutt,4,3,1963,126.85,Short Sale,249000
+Santa Maria-Orcutt,3,3,1541,152.5,Short Sale,235000
+Santa Maria-Orcutt,1,1,731,143.64,Short Sale,105000
+Santa Maria-Orcutt,3,2,1086,165.74,Short Sale,179999
+Santa Maria-Orcutt,3,2,1131,193.63,Short Sale,219000
+Santa Maria-Orcutt,2,1,1100,150,Short Sale,165000
+Santa Maria-Orcutt,3,2,1398,128.04,Short Sale,179000
+Santa Maria-Orcutt,4,2,1860,126.34,Short Sale,235000
+Santa Maria-Orcutt,3,2,1269,156.82,Short Sale,199000
+Santa Maria-Orcutt,3,2,1275,163.92,Short Sale,209000
+Santa Maria-Orcutt,4,2,1460,164.38,Short Sale,240000
+Santa Maria-Orcutt,4,2,1750,122.86,Short Sale,215000
+Santa Maria-Orcutt,4,4,3050,131.11,Short Sale,399900
+Santa Maria-Orcutt,2,2,1082,166.36,Short Sale,180000
+Santa Maria-Orcutt,2,2,1100,140,Short Sale,154000
+Santa Maria-Orcutt,3,3,2523,173.4,Short Sale,437500
+Santa Maria-Orcutt,3,3,2511,119.43,Short Sale,299900
+Santa Maria-Orcutt,3,2,1400,177.14,Short Sale,248000
+Santa Maria-Orcutt,3,3,1494,139.89,Short Sale,209000
+Santa Maria-Orcutt,3,2,1300,142.31,Short Sale,185000
+Santa Maria-Orcutt,3,2,1200,137.5,Short Sale,165000
+Santa Maria-Orcutt,3,2,1600,109.38,Short Sale,175000
+Santa Maria-Orcutt,2,2,1680,46.43,Short Sale,78000
+Santa Maria-Orcutt,3,3,2714,236.51,Foreclosure,641900
+Santa Maria-Orcutt,2,2,1410,212.06,Short Sale,299000
+Santa Maria-Orcutt,3,3,1900,121,Short Sale,229900
+Santa Maria-Orcutt,2,3,1200,133.33,Short Sale,160000
+Santa Maria-Orcutt,3,3,2400,124.58,Short Sale,299000
+Santa Maria-Orcutt,4,2,1460,184.93,Short Sale,270000
+Santa Maria-Orcutt,3,3,1800,163.89,Short Sale,295000
+Santa Maria-Orcutt,3,2,1110,148.65,Short Sale,165000
+Santa Maria-Orcutt,3,2,1075,146.88,Short Sale,157900
+Santa Maria-Orcutt,4,2,1650,141.21,Short Sale,233000
+Santa Maria-Orcutt,2,2,1200,91.58,Foreclosure,109900
+Santa Maria-Orcutt,2,2,1113,188.59,Short Sale,209900
+Santa Maria-Orcutt,3,2,1300,137.69,Short Sale,179000
+Santa Maria-Orcutt,3,2,1850,70.27,Short Sale,130000
+Santa Maria-Orcutt,3,2,1146,178.88,Short Sale,205000
+Santa Maria-Orcutt,2,2,1100,164.45,Short Sale,180900
+Santa Maria-Orcutt,2,3,1800,55.56,Short Sale,99999
+Santa Maria-Orcutt,5,3,3307,134.56,Foreclosure,445000
+Santa Maria-Orcutt,4,2,1102,190.56,Short Sale,210000
+Santa Maria-Orcutt,3,2,1215,164.53,Short Sale,199900
+Santa Maria-Orcutt,3,2,1600,140.63,Short Sale,225000
+Santa Maria-Orcutt,3,2,1686,71.17,Short Sale,120000
+Santa Maria-Orcutt,4,2,1257,238.66,Short Sale,300000
+Santa Maria-Orcutt,3,2,1144,196.68,Short Sale,225000
+Santa Maria-Orcutt,4,3,2300,173.48,Short Sale,399000
+Santa Maria-Orcutt,3,2,1238,161.47,Short Sale,199900
+Santa Maria-Orcutt,2,2,1086,205.25,Short Sale,222900
+Santa Maria-Orcutt,4,2,1361,125.28,Short Sale,170500
+Santa Maria-Orcutt,3,2,1200,249.92,Short Sale,299900
+Santa Maria-Orcutt,2,2,840,78.45,Foreclosure,65900
+Santa Maria-Orcutt,4,2,1377,152.51,Short Sale,210000
+Santa Maria-Orcutt,3,2,1906,162.12,Short Sale,309000
+Santa Maria-Orcutt,3,2,2004,157.19,Short Sale,315000
+Santa Maria-Orcutt,3,1,1200,159.25,Foreclosure,191100
+Santa Maria-Orcutt,4,2,1400,142.14,Short Sale,199000
+Santa Maria-Orcutt,4,3,2209,162.52,Short Sale,359000
+Santa Maria-Orcutt,3,2,1316,113.98,Short Sale,150000
+Santa Maria-Orcutt,4,3,1857,123.8,Short Sale,229900
+Santa Maria-Orcutt,3,2,1400,164.21,Short Sale,229900
+Santa Maria-Orcutt,5,3,6098,40.18,Short Sale,245000
+Santa Maria-Orcutt,3,2,1300,126.92,Short Sale,165000
+Santa Maria-Orcutt,4,3,2248,137.86,Short Sale,309900
+Santa Maria-Orcutt,4,2,1500,113.27,Short Sale,169900
+Santa Maria-Orcutt,3,2,2000,190.45,Short Sale,380900
+Santa Maria-Orcutt,4,3,1939,162.45,Short Sale,315000
+Santa Maria-Orcutt,3,2,1312,91.39,Short Sale,119900
+Santa Maria-Orcutt,3,2,1275,165.88,Foreclosure,211500
+Santa Maria-Orcutt,2,1,854,174.47,Short Sale,149000
+Santa Maria-Orcutt,4,3,2100,137.62,Short Sale,289000
+Santa Maria-Orcutt,3,2,900,138.89,Short Sale,125000
+Santa Maria-Orcutt,3,3,1800,132.78,Short Sale,239000
+Santa Maria-Orcutt,3,3,1600,124.94,Short Sale,199900
+Santa Maria-Orcutt,4,3,2150,83.67,Short Sale,179900
+Santa Maria-Orcutt,3,2,1300,150,Short Sale,195000
+Santa Maria-Orcutt,2,3,1700,155.88,Short Sale,265000
+Santa Maria-Orcutt,3,3,1530,123.53,Short Sale,189000
+Santa Maria-Orcutt,2,2,1088,96.51,Short Sale,105000
+Santa Maria-Orcutt,4,4,4000,91.25,Short Sale,365000
+Santa Maria-Orcutt,4,2,2100,161.86,Short Sale,339900
+Santa Maria-Orcutt,3,3,2340,153.8,Short Sale,359900
+Santa Maria-Orcutt,3,2,1080,132.41,Short Sale,143000
+Santa Maria-Orcutt,3,2,1196,166.39,Short Sale,199000
+Santa Maria-Orcutt,4,2,1856,158.89,Short Sale,294900
+Santa Maria-Orcutt,4,3,2367,180.78,Short Sale,427900
+Santa Maria-Orcutt,2,2,1130,128.23,Foreclosure,144900
+Santa Maria-Orcutt,3,3,2020,170.79,Short Sale,345000
+Santa Maria-Orcutt,3,3,1800,125,Short Sale,225000
+Santa Maria-Orcutt,3,3,1660,132.47,Short Sale,219900
+Santa Maria-Orcutt,4,3,2100,135.71,Short Sale,285000
+Santa Maria-Orcutt,3,2,1200,149.92,Foreclosure,179900
+Santa Maria-Orcutt,4,3,1768,169.12,Short Sale,299000
+Santa Maria-Orcutt,3,2,1776,166.61,Short Sale,295900
+Santa Maria-Orcutt,4,3,1467,135.65,Short Sale,199000
+Santa Maria-Orcutt,3,3,1950,102.51,Short Sale,199900
+Santa Maria-Orcutt,3,2,1288,139.67,Foreclosure,179900
+Santa Maria-Orcutt,3,2,1128,148.94,Short Sale,168000
+Santa Maria-Orcutt,3,3,1900,142.11,Short Sale,270000
+Santa Maria-Orcutt,3,2,1255,191.24,Short Sale,240000
+Santa Maria-Orcutt,4,3,2336,100.6,Short Sale,235000
+Santa Maria-Orcutt,3,3,1800,149.44,Short Sale,269000
+Santa Maria-Orcutt,6,3,2053,165.56,Foreclosure,339900
+Santa Maria-Orcutt,4,3,1900,136.32,Short Sale,259000
+Santa Maria-Orcutt,3,2,1050,157.14,Short Sale,165000
+Santa Maria-Orcutt,3,2,1414,205.02,Foreclosure,289900
+Santa Maria-Orcutt,3,2,1200,183.33,Short Sale,220000
+Santa Maria-Orcutt,2,2,1150,399.91,Short Sale,459900
+Santa Maria-Orcutt,5,3,2481,120.52,Short Sale,299000
+Santa Maria-Orcutt,4,3,1600,193.69,Short Sale,309900
+Santa Maria-Orcutt,3,2,1516,148.42,Short Sale,225000
+Santa Maria-Orcutt,3,2,1080,120.37,Short Sale,130000
+Santa Maria-Orcutt,2,1,920,184.77,Short Sale,169990
+Santa Maria-Orcutt,3,2,1027,141.19,Foreclosure,145000
+Santa Maria-Orcutt,3,2,1253,151.56,Foreclosure,189900
+Santa Maria-Orcutt,3,2,1062,234.46,Short Sale,249000
+Santa Maria-Orcutt,4,2,1934,95.66,Short Sale,185000
+Santa Maria-Orcutt,3,3,1859,131.79,Short Sale,245000
+Santa Maria-Orcutt,4,3,2400,120.79,Short Sale,289900
+Santa Maria-Orcutt,3,2,1110,157.66,Short Sale,175000
+Santa Maria-Orcutt,3,2,1075,129.3,Short Sale,139000
+Santa Maria-Orcutt,3,2,1840,216.85,Short Sale,399000
+Santa Maria-Orcutt,3,2,1622,215.78,Short Sale,350000
+Santa Maria-Orcutt,3,2,1204,137.04,Short Sale,165000
+Santa Maria-Orcutt,3,3,1750,120,Short Sale,210000
+Santa Maria-Orcutt,3,2,1000,110,Short Sale,110000
+Santa Maria-Orcutt,3,2,1114,143.54,Short Sale,159900
+Santa Maria-Orcutt,3,2,1100,159,Foreclosure,174900
+Santa Maria-Orcutt,3,2,1349,111.19,Short Sale,150000
+Santa Maria-Orcutt,4,2,1174,218.06,Short Sale,256000
+Santa Maria-Orcutt,3,3,1910,146.6,Short Sale,280000
+Santa Maria-Orcutt,3,2,1200,116.67,Short Sale,140000
+Santa Maria-Orcutt,3,2,1092,151.01,Foreclosure,164900
+Santa Maria-Orcutt,3,2,1275,156.78,Short Sale,199900
+Santa Maria-Orcutt,3,2,1712,119.16,Short Sale,204000
+Santa Maria-Orcutt,3,2,1100,200,Short Sale,220000
+Santa Maria-Orcutt,3,2,1671,137.58,Short Sale,229900
+Santa Maria-Orcutt,2,1,775,148.26,Foreclosure,114900
+Santa Maria-Orcutt,4,3,2100,127.05,Short Sale,266800
+Santa Maria-Orcutt,3,2,1807,138.35,Short Sale,250000
+Santa Maria-Orcutt,4,2,1352,162.72,Short Sale,220000
+Santa Maria-Orcutt,3,2,1526,104.78,Foreclosure,159900
+Santa Maria-Orcutt,3,2,1593,97.3,Short Sale,155000
+Santa Maria-Orcutt,3,3,2328,128.87,Foreclosure,300000
+Santa Maria-Orcutt,3,2,1008,178.47,Short Sale,179900
+Santa Maria-Orcutt,3,2,1340,115.67,Short Sale,155000
+Santa Maria-Orcutt,5,4,3039,139.85,Short Sale,425000
+Santa Maria-Orcutt,3,2,1733,144.2,Short Sale,249900
+Santa Maria-Orcutt,4,3,1947,122.75,Short Sale,239000
+Santa Maria-Orcutt,4,3,1927,119.36,Short Sale,230000
+Santa Maria-Orcutt,3,2,1292,146.28,Foreclosure,189000
+Santa Maria-Orcutt,3,2,1300,130.69,Foreclosure,169900
+Santa Maria-Orcutt,3,2,1700,168.53,Short Sale,286500
+Santa Maria-Orcutt,3,2,1520,137.5,Short Sale,209000
+Santa Maria-Orcutt,2,2,900,105.56,Short Sale,95000
+Santa Maria-Orcutt,3,2,1407,142.08,Short Sale,199900
+Santa Maria-Orcutt,3,2,1170,158.12,Short Sale,185000
+Santa Maria-Orcutt,5,4,2900,106.9,Short Sale,310000
+Santa Maria-Orcutt,4,2,1656,144.87,Short Sale,239900
+Santa Maria-Orcutt,2,2,980,191.73,Foreclosure,187900
+Santa Maria-Orcutt,3,2,1278,203.44,Short Sale,260000
+Santa Maria-Orcutt,3,2,1200,145.83,Short Sale,175000
+Santa Maria-Orcutt,3,2,1257,147.18,Short Sale,185000
+Santa Maria-Orcutt,2,2,1100,127.18,Short Sale,139900
+Santa Maria-Orcutt,3,2,1461,119.71,Foreclosure,174900
+Santa Maria-Orcutt,3,2,1200,140.83,Short Sale,169000
+Santa Maria-Orcutt,3,3,2039,117.7,Short Sale,240000
+Santa Maria-Orcutt,4,3,2150,169.3,Short Sale,364000
+Santa Maria-Orcutt,4,3,1969,152.31,Foreclosure,299900
+Santa Maria-Orcutt,4,3,2357,119.6,Foreclosure,281900
+Santa Maria-Orcutt,3,2,1850,118.92,Short Sale,220000
+Santa Maria-Orcutt,3,2,1200,112.5,Short Sale,135000
+Santa Maria-Orcutt,3,2,1200,149.17,Foreclosure,179000
+Santa Maria-Orcutt,3,2,1500,118,Foreclosure,177000
+Santa Maria-Orcutt,3,2,1500,118,Regular,177000
+Santa Maria-Orcutt,3,2,1400,171.07,Short Sale,239500
+Santa Maria-Orcutt,3,2,1460,188.36,Short Sale,275000
+Santa Maria-Orcutt,1,1,800,98.13,Foreclosure,78500
+Santa Maria-Orcutt,3,3,1520,118.36,Short Sale,179900
+Santa Maria-Orcutt,4,3,2150,139.49,Short Sale,299900
+Santa Maria-Orcutt,3,2,1022,127.2,Short Sale,130000
+Santa Maria-Orcutt,4,2,1435,132.33,Foreclosure,189900
+Santa Maria-Orcutt,4,2,1430,139.86,Short Sale,200000
+Santa Maria-Orcutt,3,2,1100,99.91,Foreclosure,109900
+Santa Maria-Orcutt,3,2,1704,146.42,Short Sale,249500
+Santa Maria-Orcutt,4,3,2100,190,Short Sale,399000
+Santa Maria-Orcutt,3,2,1972,91.23,Short Sale,179900
+Santa Maria-Orcutt,4,3,2100,111.9,Short Sale,235000
+Santa Maria-Orcutt,3,2,1280,195.31,Short Sale,250000
+Santa Maria-Orcutt,2,2,1034,115.96,Foreclosure,119900
+Santa Maria-Orcutt,5,3,2100,195.24,Foreclosure,410000
+Santa Maria-Orcutt,4,2,1378,143.4,Foreclosure,197600
+Santa Maria-Orcutt,3,2,1316,113.98,Short Sale,150000
+Santa Maria-Orcutt,4,3,2300,115.22,Foreclosure,265000
+Santa Maria-Orcutt,5,3,1671,119.63,Short Sale,199900
+Santa Maria-Orcutt,4,3,2800,124.96,Short Sale,349900
+Santa Maria-Orcutt,2,2,900,110,Foreclosure,99000
+Santa Ynez,3,2,1746,300.69,Short Sale,525000
+Santa Ynez,3,2,2092,380.02,Short Sale,795000
+Santa Ynez,5,4,2402,415.9,Short Sale,999000
+Santa Ynez,4,2,2032,342.03,Foreclosure,695000
+Santa Ynez,4,4,2693,518.01,Short Sale,1395000
+Soledad,5,3,2408,91.36,Foreclosure,220000
+Soledad,4,2,1353,122.22,Foreclosure,165360
+Soledad,4,2,1765,94.5,Foreclosure,166800
+Solvang,3,3,1702,208.58,Foreclosure,355000
+Solvang,3,3,1500,216.67,Short Sale,325000
+Solvang,3,2,1522,262.75,Short Sale,399900
+Solvang,3,2,1600,311.88,Short Sale,499000
+Solvang,4,2,1809,307.9,Short Sale,557000
+Solvang,3,2,1204,331.4,Short Sale,399000
+Solvang,3,2,1576,266.43,Foreclosure,419900
+Solvang,2,3,1400,189.21,Foreclosure,264900
+Templeton,4,5,5500,209.09,Short Sale,1150000
+Templeton,3,2,1852,296.98,Short Sale,550000
+Templeton,4,3,6500,215.23,Foreclosure,1399000
+Templeton,4,4,3100,257.74,Short Sale,799000
+Templeton,2,3,2100,228.1,Short Sale,479000
+Templeton,4,2,1797,169.73,Short Sale,305000
+Templeton,4,3,3008,298.87,Short Sale,899000
+Templeton,3,2,1999,229.61,Short Sale,459000
+Templeton,3,4,3123,248.09,Foreclosure,774800
+Templeton,2,1,952,341.39,Short Sale,325000
+Templeton,3,2,1850,337.84,Foreclosure,625000
+,,,,,,
+,,,,,,
